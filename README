@@ -1,0 +1,7 @@
+# Zendesk Customer Export
+
+- Get list of cusomers
+- Present list as a formatted CSV file
+- Get number of pages and fetch all
+- Only show new customers (compare against local list)
+- Allow selection of columns/data in config file
